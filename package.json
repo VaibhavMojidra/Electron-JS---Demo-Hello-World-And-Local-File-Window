@@ -1,0 +1,18 @@
+{
+  "name": "com.vaibhavmojidra.electronjs.helloworld",
+  "version": "1.0.0",
+  "description": "Vaibhav Mojidra",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Vaibhav",
+    "Mojidra"
+  ],
+  "author": "Vaibhav Mojidra",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.0.3"
+  }
+}
